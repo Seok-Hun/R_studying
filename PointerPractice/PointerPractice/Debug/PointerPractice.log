@@ -1,0 +1,10 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: 중간 디렉터리(Debug\)에 다른 프로젝트(PointerPractice.vcxproj)에서 공유하는 파일이 포함되어 있습니다.  이로 인해 잘못된 정리 및 다시 빌드 동작이 수행될 수 있습니다.
+  ExcessVariable.c
+c:\users\hamer\source\repos\pointerpractice\pointerpractice\excessvariable.c(9): warning C4477: 'printf' : 서식 문자열 '%u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+c:\users\hamer\source\repos\pointerpractice\pointerpractice\excessvariable.c(10): warning C4477: 'printf' : 서식 문자열 '%u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+c:\users\hamer\source\repos\pointerpractice\pointerpractice\excessvariable.c(14): warning C4477: 'printf' : 서식 문자열 '%u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int **'입니다.
+c:\users\hamer\source\repos\pointerpractice\pointerpractice\excessvariable.c(15): warning C4477: 'printf' : 서식 문자열 '%u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+c:\users\hamer\source\repos\pointerpractice\pointerpractice\excessvariable.c(20): warning C4477: 'printf' : 서식 문자열 '%u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int **'입니다.
+c:\users\hamer\source\repos\pointerpractice\pointerpractice\excessvariable.c(21): warning C4477: 'printf' : 서식 문자열 '%u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+c:\users\hamer\source\repos\pointerpractice\pointerpractice\excessvariable.c(28): warning C4013: 'system'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  PointerPractice.vcxproj -> C:\Users\hamer\source\repos\PointerPractice\Debug\ExcessVariable.exe
